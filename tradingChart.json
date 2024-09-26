@@ -1,10 +1,21 @@
 [
+    
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "The stock market represents a wide variety of financial sectors and industries. Keeping track of market trends is crucial for making informed investment decisions.",
+        "descriptionE": "When a stock rises to a certain price level two times and then falls from that level both times, it forms a double top pattern. If the stock then breaks below the support level, it indicates that the stock price is likely to go down further.",
         "descriptionH": "शेयर बाजार विभिन्न वित्तीय क्षेत्रों और उद्योगों का प्रतिनिधित्व करता है। सूचित निवेश निर्णय लेने के लिए बाजार के रुझानों पर नज़र रखना आवश्यक है।",
-        "headE": "Trading Chart Pattern",
+        "headE": "Double Top with Candlestick Chart",
+        "headH": "बाजार रुझानों को समझना",
+        "imgcount": "2"
+    },
+    
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "When a stock drops to a certain price level two times and then rises from that level both times, it forms a double bottom pattern. If the stock then breaks above the resistance level, it suggests that the stock price is likely to go up.",
+        "descriptionH": "शेयर बाजार विभिन्न वित्तीय क्षेत्रों और उद्योगों का प्रतिनिधित्व करता है। सूचित निवेश निर्णय लेने के लिए बाजार के रुझानों पर नज़र रखना आवश्यक है।",
+        "headE": "Double Bottom with Candlestick Chart",
         "headH": "बाजार रुझानों को समझना",
         "imgcount": "2"
     },
