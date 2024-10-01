@@ -22,32 +22,18 @@
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "In a <strong>Triple Top</strong> pattern, the stock price tries to rise but hits the same high point three times. Each time it reaches this level, it gets pushed down. After the third failed attempt, the stock finally breaks below its support level, signaling that the price is likely to drop further. Here's how it works:</p>
-
-<ul>
-    <li><strong>Attempt 1:</strong> Stock reaches a high level (resistance) but falls back after hitting it.</li>
-    <li><strong>Attempt 2:</strong> Stock rises again, reaches the same resistance level, and drops back.</li>
-    <li><strong>Attempt 3:</strong> Stock makes one last attempt, hits the same resistance, but fails and drops.</li>
-    <li><strong>Break of Support:</strong> After the third fall, the stock finally breaks below the support level, indicating a downward trend.</li>
-</ul>
-
-<div class="flowchart">
-    <p><strong>Flowchart:</strong></p>
-    <p>1. Stock price rises → Hits resistance → Falls (Support holds)</p>
-    <p>2. Rises again → Hits same resistance → Falls again</p>
-    <p>3. Rises for the third time → Fails to break resistance → Falls below support → Price expected to drop</p>
-</div>",
+        "descriptionE": "Imagine a stock trying to break through a ceiling. Three times it bounces off a certain level (support) and tries to go higher, but each time, it hits the same barrier (resistance) and falls back. After the third failed attempt, the stock finally drops below the support level, like breaking through the floor. This is a Triple Top pattern and it signals that the stock price is likely to fall further.,
         "descriptionH": "आपके पोर्टफोलियो में जोखिम प्रबंधन के लिए विविधीकरण महत्वपूर्ण है। विभिन्न परिसंपत्ति वर्गों में निवेश संभावित नुकसान को कम करने में मदद कर सकता है।",
-        "headE": "Investment Tips for Beginners",
+        "headE": "Triple Top with Candlestick Chart",
         "headH": "शुरुआती लोगों के लिए निवेश युक्तियाँ",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Risk management is essential in stock trading. Assess your risk tolerance and set stop-loss orders to protect your investments.",
+        "descriptionE": "Now picture a stock repeatedly hitting the ground (resistance) and trying to break lower. Three times it bounces back up from the same low point, unable to drop further. After the third bounce, it gains strength and breaks through the resistance level, shooting upward. This is a Triple Bottom pattern, indicating the stock price is likely to rise from there.",
         "descriptionH": "शेयर ट्रेडिंग में जोखिम प्रबंधन आवश्यक है। अपने जोखिम सहिष्णुता का आकलन करें और अपने निवेश की सुरक्षा के लिए स्टॉप-लॉस आदेश सेट करें।",
-        "headE": "Risk Management Strategies",
+        "headE": "Triple Bottom with Candlestick Chart",
         "headH": "जोखिम प्रबंधन रणनीतियाँ",
         "imgcount": "2"
     },
