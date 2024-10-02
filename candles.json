@@ -2,45 +2,45 @@
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "The stock market represents a wide variety of financial sectors and industries. Keeping track of market trends is crucial for making informed investment decisions.",
+        "descriptionE": "A candlestick reflects the market's mood and helps traders understand price movements at a glance. A green candlestick indicates a bullish market, meaning prices are rising, while a red candlestick signals a bearish market, where prices are falling. The rectangular part of the candlestick, known as the body, shows the opening and closing prices of the stock during a specific period. The thin lines extending from the body are called shadows, which represent the stock’s highest and lowest points within that time frame. The body highlights where the price started and ended, and the shadows show the range of movement, helping traders make quick decisions by visualizing market trends easily.",
         "descriptionH": "शेयर बाजार विभिन्न वित्तीय क्षेत्रों और उद्योगों का प्रतिनिधित्व करता है। सूचित निवेश निर्णय लेने के लिए बाजार के रुझानों पर नज़र रखना आवश्यक है।",
-        "headE": "Understanding Market Trends",
+        "headE": "Chapter 1: What is a Candlestick",
         "headH": "बाजार रुझानों को समझना",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Diversification is key to managing risk in your portfolio. Investing in different asset classes can help mitigate potential losses.",
+        "descriptionE": "The Hammer pattern appears at the bottom of a downtrend, signaling a potential reversal. It has a small body and a long lower shadow, resembling the shape of a hammer. The long lower shadow indicates that sellers pushed the price down, but buyers stepped in and drove it back up, which is why the body is small. After this pattern forms, it’s often a sign that the stock could start moving upward.",
         "descriptionH": "आपके पोर्टफोलियो में जोखिम प्रबंधन के लिए विविधीकरण महत्वपूर्ण है। विभिन्न परिसंपत्ति वर्गों में निवेश संभावित नुकसान को कम करने में मदद कर सकता है।",
-        "headE": "Investment Tips for Beginners",
+        "headE": "Chapter 2: What is Hammer Candle",
         "headH": "शुरुआती लोगों के लिए निवेश युक्तियाँ",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Risk management is essential in stock trading. Assess your risk tolerance and set stop-loss orders to protect your investments.",
+        "descriptionE": "In the Bearish Symmetrical pattern, the stock is initially moving downward. Then, it begins to form a triangle shape, moving up and down within a narrowing range. As the stock continues, the range becomes tighter and tighter, like the triangle is shrinking. When the stock breaks below the support trendline at the bottom of the triangle, it signals that the stock is likely to continue falling further. This pattern warns that the downtrend could resume after a brief pause.",
         "descriptionH": "शेयर ट्रेडिंग में जोखिम प्रबंधन आवश्यक है। अपने जोखिम सहिष्णुता का आकलन करें और अपने निवेश की सुरक्षा के लिए स्टॉप-लॉस आदेश सेट करें।",
-        "headE": "Risk Management Strategies",
+        "headE": "Chapter 3: Bearish Symmetrical Pattern with Candlestick Chart",
         "headH": "जोखिम प्रबंधन रणनीतियाँ",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Market volatility can create opportunities for investors. However, it's important to stay calm and not make impulsive decisions.",
+        "descriptionE": "In the Cup and Handle pattern, the stock initially drops significantly, then begins to rise again. As it rises, it faces resistance at a certain price level, causing it to dip once more. However, this time, the dip is smaller. The overall shape looks like a tea cup, with a rounded bottom and a slight pullback forming the handle. When the stock finally breaks through the resistance and moves higher, it’s a signal that the stock may continue to rise further. This pattern suggests a bullish opportunity for traders, indicating the stock has the potential for upward movement.",
         "descriptionH": "बाजार की अस्थिरता निवेशकों के लिए अवसर पैदा कर सकती है। हालांकि, शांत रहना और त्वरित निर्णय नहीं लेना महत्वपूर्ण है।",
-        "headE": "Handling Market Volatility",
+        "headE": "Chapter 4: Cup and Handle with Candlestick Chart",
         "headH": "बाजार की अस्थिरता को संभालना",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Technical analysis involves using charts and historical data to predict future market movements. It's a valuable tool for day traders.",
+        "descriptionE": "In the Inverted Cup and Handle pattern, the stock initially climbs to a high point, then drops, finding support at a certain price level. After bouncing back slightly, it rises again but doesn't reach the previous high. Instead, it falls again, forming a shape that resembles an upside-down tea cup. This pattern often signals that the stock might break through the support and continue falling, indicating a bearish market outlook.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
-        "headE": "Technical Analysis Basics",
+        "headE": "Chapter 5: Inverted Cup and Handle with Candlestick Chart",
         "headH": "तकनीकी विश्लेषण की मूल बातें",
         "imgcount": "2"
     }
