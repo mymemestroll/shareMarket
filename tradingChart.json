@@ -40,18 +40,19 @@
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Market volatility can create opportunities for investors. However, it's important to stay calm and not make impulsive decisions.",
+        "descriptionE": "Imagine a stock that keeps falling but always finds support at a certain price, which prevents it from dropping further. It then rises from that support level, forming a top three times. The first and third time, the stock reaches a similar level and falls back again. However, the second time, it rises a bit higher before falling again. This pattern looks like a head with shoulders, just like the shape of a human body. When you see this pattern, it signals that the stock might break the support level and fall further.
+",
         "descriptionH": "बाजार की अस्थिरता निवेशकों के लिए अवसर पैदा कर सकती है। हालांकि, शांत रहना और त्वरित निर्णय नहीं लेना महत्वपूर्ण है।",
-        "headE": "Handling Market Volatility",
+        "headE": "Capter 5: Head and Shoulder Pattern with Candlestick Chart Pattern",
         "headH": "बाजार की अस्थिरता को संभालना",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Technical analysis involves using charts and historical data to predict future market movements. It's a valuable tool for day traders.",
+        "descriptionE": "Now, imagine a stock that repeatedly hits a resistance level and falls after each attempt. After falling, it forms three bottoms. The first and third times, it rises after reaching a similar low point. However, on the second attempt, it falls a bit lower before rising again. This pattern is called an Inverted Head and Shoulders because it’s the reverse of the previous pattern. When this pattern appears, it signals that the stock might break the resistance level and move upward.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
-        "headE": "Technical Analysis Basics",
+        "headE": "Chapter 6: Inverted Head and Shoulder Pattern with Candlestick Chart Pattern",
         "headH": "तकनीकी विश्लेषण की मूल बातें",
         "imgcount": "2"
     }
