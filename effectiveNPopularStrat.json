@@ -2,9 +2,13 @@
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "The stock market represents a wide variety of financial sectors and industries. Keeping track of market trends is crucial for making informed investment decisions.",
+        "descriptionE": "Before diving into the 44 Moving Average strategy, let’s first understand what a Moving Average is. A moving average is simply the average price of an asset over a specific period, based on the closing prices of candles (which represent time periods). You decide how many past candles you want to calculate the average for. In this case, we are using a 44 Moving Average, meaning it calculates the average closing price of the last 44 candles and draws it on the chart.
+
+But why is it called "moving"? It’s because with every new candle that forms, the average is updated, so the line "moves" forward on the chart. To set up the 44 Simple Moving Average (SMA), you go to the Indicators section on your trading platform, search for Moving Average, and select the Simple Moving Average option.
+
+By using this, traders can smooth out price fluctuations and identify trends, helping them make more informed decisions about when to buy or sell.",
         "descriptionH": "शेयर बाजार विभिन्न वित्तीय क्षेत्रों और उद्योगों का प्रतिनिधित्व करता है। सूचित निवेश निर्णय लेने के लिए बाजार के रुझानों पर नज़र रखना आवश्यक है।",
-        "headE": "Effective and Popular Strategies",
+        "headE": "Chapter 1: What is the 44 Moving Average?",
         "headH": "बाजार रुझानों को समझना",
         "imgcount": "2"
     },
