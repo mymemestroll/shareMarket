@@ -2,46 +2,164 @@
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "The stock market represents a wide variety of financial sectors and industries. Keeping track of market trends is crucial for making informed investment decisions.",
+        "descriptionE": "The National Stock Exchange (NSE) is one of the major stock exchanges in India where stocks and other securities are bought and sold. It provides a platform for investors and traders to trade various financial instruments like stocks, bonds, and derivatives.",
         "descriptionH": "शेयर बाजार विभिन्न वित्तीय क्षेत्रों और उद्योगों का प्रतिनिधित्व करता है। सूचित निवेश निर्णय लेने के लिए बाजार के रुझानों पर नज़र रखना आवश्यक है।",
-        "headE": "Basic Knowledge",
+        "headE": "Chapter 1: National Stock Exchange (NSE)",
         "headH": "बाजार रुझानों को समझना",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Diversification is key to managing risk in your portfolio. Investing in different asset classes can help mitigate potential losses.",
+        "descriptionE": "The Bombay Stock Exchange (BSE) is another leading stock exchange in India. It is one of the oldest stock exchanges in Asia. Like the NSE, it allows investors to buy and sell shares of publicly listed companies.",
         "descriptionH": "आपके पोर्टफोलियो में जोखिम प्रबंधन के लिए विविधीकरण महत्वपूर्ण है। विभिन्न परिसंपत्ति वर्गों में निवेश संभावित नुकसान को कम करने में मदद कर सकता है।",
-        "headE": "Investment Tips for Beginners",
+        "headE": "Chapter 2: Bombay Stock Exchange (BSE)",
         "headH": "शुरुआती लोगों के लिए निवेश युक्तियाँ",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Risk management is essential in stock trading. Assess your risk tolerance and set stop-loss orders to protect your investments.",
+        "descriptionE": "SENSEX is the stock market index of the BSE, which represents the performance of 30 of the largest and most actively traded companies on the exchange. It helps investors gauge the overall health of the stock market. When SENSEX goes up, it generally indicates that the stock market is doing well.",
         "descriptionH": "शेयर ट्रेडिंग में जोखिम प्रबंधन आवश्यक है। अपने जोखिम सहिष्णुता का आकलन करें और अपने निवेश की सुरक्षा के लिए स्टॉप-लॉस आदेश सेट करें।",
-        "headE": "Risk Management Strategies",
+        "headE": "Chapter 3: What is SENSEX?",
         "headH": "जोखिम प्रबंधन रणनीतियाँ",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Market volatility can create opportunities for investors. However, it's important to stay calm and not make impulsive decisions.",
+        "descriptionE": "Multibagger stocks are shares that have the potential to increase significantly in value over time, often doubling or tripling in price. Investors buy these stocks with the hope that they will generate substantial returns.",
         "descriptionH": "बाजार की अस्थिरता निवेशकों के लिए अवसर पैदा कर सकती है। हालांकि, शांत रहना और त्वरित निर्णय नहीं लेना महत्वपूर्ण है।",
-        "headE": "Handling Market Volatility",
+        "headE": "Chapter 4: Multibagger Stocks",
         "headH": "बाजार की अस्थिरता को संभालना",
         "imgcount": "2"
     },
     {
         "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
         "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
-        "descriptionE": "Technical analysis involves using charts and historical data to predict future market movements. It's a valuable tool for day traders.",
+        "descriptionE": "Penny stocks are shares of small companies that trade at very low prices, often below ₹10 per share. While they can offer high returns, they are also very risky and volatile, making them a popular choice for speculative investors.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
-        "headE": "Technical Analysis Basics",
+        "headE": "Chapter 5: Penny Stocks",
         "headH": "तकनीकी विश्लेषण की मूल बातें",
         "imgcount": "2"
+        },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "A stock broker is a licensed professional who buys and sells stocks on behalf of clients. Brokers provide valuable services, including investment advice and access to trading platforms. They earn a commission for their services.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 6: Stock Broker",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+        },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Stock trading involves buying and selling shares of companies in the stock market. Traders can be classified as day traders (who buy and sell stocks within a single trading day) or long-term investors (who hold stocks for a longer period).",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 7: Stock Trading",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+        },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Nifty, officially known as Nifty 50, is the stock market index of the NSE. It consists of 50 of the largest and most actively traded stocks on the exchange. Like SENSEX, it serves as a benchmark to assess the performance of the Indian stock market.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 8: Nifty",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+        },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Mid cap stocks are shares of companies with a medium market capitalization, typically between ₹5,000 crores to ₹20,000 crores. These companies are considered to have growth potential and carry moderate risk compared to small and large-cap stocks.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 9: Mid Cap Stocks",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+        },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Small cap stocks refer to shares of smaller companies, usually with a market capitalization of less than ₹5,000 crores. While they can offer high growth potential, they are generally more volatile and riskier than larger companies.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 10: Small Cap Stocks",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+        },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Large cap stocks are shares of well-established companies with a large market capitalization, typically above ₹20,000 crores. These companies are often leaders in their industries and are considered stable investments.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 11: Large Cap Stocks",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+        },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Blue chip stocks are shares of financially sound and stable companies with a long history of reliable performance. They are considered safe investments and often pay dividends to shareholders.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 12: Blue Chip Stocks or Companies",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+         },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Stock market timings refer to the specific hours during which trading occurs on stock exchanges. In India, the stock market typically operates from 9:15 AM to 3:30 PM on weekdays, with a pre-opening session from 9:00 AM to 9:15 AM.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 13: Stock Market Timings",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+         },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "NSE holidays are specific days when the National Stock Exchange is closed for trading, such as national holidays or important festivals. On these days, investors cannot buy or sell stocks on the NSE.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 14: NSE Holidays",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+         },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Similar to NSE holidays, BSE holidays refer to the days when the Bombay Stock Exchange is closed for trading. These holidays are also based on national holidays and important events.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 15: BSE Holidays",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+         },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Intraday trading involves buying and selling stocks within the same trading day. Traders aim to profit from short-term price fluctuations and do not hold positions overnight. This type of trading can be risky due to market volatility.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 16: Intraday Trading",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+         },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Equity share capital refers to the funds raised by a company through the issuance of shares. Investors who purchase equity shares become part owners of the company and have a claim on its assets and profits.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 17: Equity Share Capital",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+         },
+    {
+        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
+        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "descriptionE": "Growth stocks are shares of companies expected to grow at a faster rate than the overall market. These companies often reinvest profits back into the business instead of paying dividends, making them appealing to investors seeking capital appreciation.",
+        "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
+        "headE": "Chapter 18: Growth Stocks",
+        "headH": "तकनीकी विश्लेषण की मूल बातें",
+        "imgcount": "2"
+       
     }
 ]
