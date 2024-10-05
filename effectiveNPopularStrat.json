@@ -1,7 +1,7 @@
 [
     {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRGCtI0a1YTApRQZlxH5MvXRVX6py-A1sX78YQCksM2cJMLXLIarS172yzKRpIgYgWGOsDB2m9XdMxGd2t22eZNjzoBRPCFF0Ajv9H_jSIAk1oSv-3tEbY5l_yYBO-WE0KxpXNn-Xt8GLkrL1b3z162KDTk7AEB8w9XD_bw8J0BUoGbvI4ngyY8DKgUl2n/s320/What%20is%20the%2044%20Moving%20Average%202.jpg",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMHZRo91K__iWy6KNU7NTD64HGkAilbAc5jHAptlbzM1tK-3gyEI1iIL4CfTdcNwWDroCz5XvNpiAtsYDVXL7ZaFLU4fmy-RAYu4jJq3d0KSN4Kb9LdF90_M8NJjd-konWfHBrmGHsLubnTdIiUsSrmmvfnjNI78RkjyvjxmZZgsv67eElmyGZooU88wpe/s1600/What%20is%20the%2044%20Moving%20Average%201.jpeg",
         "descriptionE": "Before diving into the 44 Moving Average strategy, let’s first understand what a Moving Average is. A moving average is simply the average price of an asset over a specific period, based on the closing prices of candles (which represent time periods). You decide how many past candles you want to calculate the average for. In this case, we are using a 44 Moving Average, meaning it calculates the average closing price of the last 44 candles and draws it on the chart.But why is it called 'moving'? It’s because with every new candle that forms, the average is updated, so the line 'moves' forward on the chart. To set up the 44 Simple Moving Average (SMA), you go to the Indicators section on your trading platform, search for Moving Average, and select the Simple Moving Average option.By using this, traders can smooth out price fluctuations and identify trends, helping them make more informed decisions about when to buy or sell.",
         "descriptionH": "शेयर बाजार विभिन्न वित्तीय क्षेत्रों और उद्योगों का प्रतिनिधित्व करता है। सूचित निवेश निर्णय लेने के लिए बाजार के रुझानों पर नज़र रखना आवश्यक है।",
         "headE": "Chapter 1: What is the 44 Moving Average?",
@@ -9,8 +9,8 @@
         "imgcount": "2"
     },
     {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_yj7VmC282SQyw4V8flAa5akLCPf7XN_HTLeempc8gh7y8hNPxDWhiGeNmKgc-73gqs2X-ZuCb6uJ67JEbmTqmsAJqtj2bzCJmGK14w7X3YS427pKzxq9lc1NJUopWRCsqdrAWzh3B1hp4f2K-K4p-oKCZRz8IyAjp-3k6GW3IyaEa-8du-jK7h6Fv4Q0/s320/50-Day%20Moving%20Average%20Crossover%202.png",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5W-idVfSy8vCBKXZKYxjWzkGsBJnbl2eXYh2NdHXOKp7CQiPY1plCi68SIAngQSpavTFLu9_YFstgSrObPA_tWtKTDO_KudSPc5MP4nBM2E6U1qeU8WQn7Jz4pYJq_esez7reClkAQB4CrDOLHQdFcDO7zrsx4m1Twe5R3QtsaFBwiYt2NjEHMBdlF-m6/s1600/50-Day%20Moving%20Average%20Crossover%201.jpeg",
         "descriptionE": "The 50-day moving average crossover strategy involves tracking the 50-day moving average (SMA) of an asset’s price. When the 50-day SMA crosses above the 200-day SMA, it signals a potential bullish trend, indicating a buy signal. Conversely, if the 50-day SMA crosses below the 200-day SMA, it indicates a bearish trend, signaling a sell opportunity. This strategy helps traders identify long-term trends based on moving average crossovers.",
         "descriptionH": "आपके पोर्टफोलियो में जोखिम प्रबंधन के लिए विविधीकरण महत्वपूर्ण है। विभिन्न परिसंपत्ति वर्गों में निवेश संभावित नुकसान को कम करने में मदद कर सकता है।",
         "headE": "Chapter 2: 50-Day Moving Average Crossover",
@@ -18,8 +18,8 @@
         "imgcount": "2"
     },
     {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmrvyPQ58ojRhHHzEXeLiOEM1mVGl_OF8QC3xeRLDU5LfPmwAZ5hvN-cqKr0cwMW9otvaLCXW5eC0CczuiBqSN9rJnl9RWiH70cRXdzaybVzCMfLB_-ImJQ4CpyRpqB4PVI-5EYNhBAHM6lxgqHXvQCKcUenFic_A2eXNUlPcJxzA7UHKaMJvbABHMDXR0/s320/200-Day%20Moving%20Average%20Strategy%202.png",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROGwzUOxb-X1uhehxwaSfuVqOCry_L3yiajkFXfVLB9rQWeK0JiToULJ1E2fvpVM3tDrPF4Vj7ssHW7o8NY2tqhm-EaYpH2yJT35yXXmoeZFOIaDml0uHVIm7pagYCCOg7nN9IBrE7B_qQUpO2_slaQeBtWKNrqX8C5MwMFl_RZmxG34Qm5mVPcfQwmH2/s1600/200-Day%20Moving%20Average%20Strategy%201.png",
         "descriptionE": "The 200-day moving average strategy is used to determine the overall trend of an asset. If the price of the asset is consistently above the 200-day moving average, it suggests a bullish trend, and traders may look for buying opportunities. If the price is below the 200-day moving average, it indicates a bearish trend, leading traders to consider selling. This strategy serves as a long-term indicator of market sentiment.",
         "descriptionH": "शेयर ट्रेडिंग में जोखिम प्रबंधन आवश्यक है। अपने जोखिम सहिष्णुता का आकलन करें और अपने निवेश की सुरक्षा के लिए स्टॉप-लॉस आदेश सेट करें।",
         "headE": "Chapter 3: 200-Day Moving Average Strategy",
@@ -27,8 +27,8 @@
         "imgcount": "2"
     },
     {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLzN4LyzaF-GucGP5E5VFTS7jLgUAttBHu5iMWKwpoXb9mtT7LU8jCkmfLCkB_qPup8XY0mWPoApiZc35QGFJgkJ0cie4TmnM_cdncUeDkt8w5tpqdKhEXudMLZ1G9pJVciiy2VnV46vkO8y28r2RKrI1Izibz6q1NqRWgOrTqD_Op56A_AYQdQsHmsll6/s1600/Exponential%20Moving%20Average%20(EMA)%20Strategy%202.jpeg",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5gRt2MxBgy0_ujiZEPZPx8QQhOJxpG2H6vBpNDcSbF8WntUC7yIzt_tKOea_T0F7nWKOg7K9NSFxR1HVLEb570AAWXKCC-q6h5rdG3xVqU75Dxrdg9Tzd6HjEJO6pw67Aw6Hp-zOjD4u3XL_a5enbPM3hfGYvYUgEBNJk1E7f-ROcKFqRnIAZ7QLss8Dr/s320/Exponential%20Moving%20Average%20(EMA)%20Strategy%201.png",
         "descriptionE": "The Exponential Moving Average (EMA) strategy uses moving averages that give more weight to recent prices, making them more responsive to market changes. Common EMA periods include 9, 21, and 50 days. Traders often look for crossovers between different EMAs (e.g., a short-term EMA crossing above a long-term EMA) to identify potential buy or sell signals, helping them capitalize on short- to medium-term trends.",
         "descriptionH": "बाजार की अस्थिरता निवेशकों के लिए अवसर पैदा कर सकती है। हालांकि, शांत रहना और त्वरित निर्णय नहीं लेना महत्वपूर्ण है।",
         "headE": "Chapter 4: Exponential Moving Average (EMA) Strategy",
@@ -36,8 +36,8 @@
         "imgcount": "2"
     },
     {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhjNbkFZHiI0aOMBMhkAE-0SDX64gZf7OOMPCMIHTxgJ4QOkW6UwukMue9GYe3P-eCJv3vC2nCgkve9DBMR4UArfGvT6jN1VB_00sd6dXfSSpWomTtPz6bkhxqpc9Pgs6yKbMX-LcRCBAdtx8amn-DNYpeMJjWg2GbCzGYfFHf26ykiOcbXN1VAYUiFuA/s320/Bollinger%20Bands%202.jpg",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbyifn70X7WBWHddySp9hH1UAO5-rfO9QnbA93neZryzSRy9Zyqb0_eFAdXtY0BEYJQKJ8yTX3lZmTak-91-8A6uJ9Aqzmvua3DB7iC27H2UoNxFRsnxcLtzCDKkxvk_9mNmrbz7RF8zhi7ZROpdO4iQ-QY2qSWtN-NDX886soZNTKrVy28Hp4EWw3LVpW/s320/Bollinger%20Bands%201.jpg",
         "descriptionE": "Bollinger Bands consist of a middle band (the simple moving average) and two outer bands that are standard deviations away from the middle band. When the price reaches the upper band, it may indicate overbought conditions, while touching the lower band may indicate oversold conditions. Traders use these bands to identify potential reversal points or continuation patterns, helping them make informed trading decisions based on volatility.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
         "headE": "Chapter 5: Bollinger Bands",
@@ -45,8 +45,8 @@
         "imgcount": "2"
     },
      {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTSf25AguJnCftIrZ-LJMc5111tsV3Ng9wQH0kspVI3C_2z5vDuxdndgzl17xZa-NZ7PMt6RNprm_yXfhGFqT3EkiXrTrxwQW7aJV-69kwqAQe6P3_4fS0YN_dQ2CUViuqfgCiGs-kcuYhGB8hs1oIm44XTjcUboijD615hSAXsCMy5ORSY_DvFgO2kkGr/s1600/MACD%20(Moving%20Average%20Convergence%20Divergence)%201.png",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS59CgHWcX3xDGXH2Z-bC9CQQW_G2yTMca36JWBL-j8Bu6vTpMWg9k4Kn4r1hc5UKFAB_qWO071e-XcypIHA9FClhDHOosOxlo3QgE_qQPftavrRNfxkf2RIEbrqeQodufX4y5yT7yfuVCdt_uqo0o7ClULD5UKvWONF5-y17nTejxmI6z-Nh32d5Y5-8I/s320/MACD%20(Moving%20Average%20Convergence%20Divergence)%202.jpg",
         "descriptionE": "The MACD is a trend-following momentum indicator that shows the relationship between two moving averages of an asset’s price. The MACD line is derived from the difference between the 12-day and 26-day EMAs. A buy signal occurs when the MACD line crosses above the signal line, while a sell signal occurs when it crosses below. This strategy helps traders identify potential trend changes and the strength of momentum.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
         "headE": "Chapter 6: MACD (Moving Average Convergence Divergence)",
@@ -54,8 +54,8 @@
         "imgcount": "2"
     },
     {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSMqb20dEfB6VhGBfw6qEdS_0bFvJBsQtW_FN-w1sCBw_Wv9n0DryeXhe9ayLQ0VAKw743_etakR0FHKf3VeMBHTz9r8G_RodAczODLka7eAuR-jWDYn_CW_eFNcxJdUiw03pQzl6V1T5fKBCfJHmA77GVwM4a8amktA8pC9f4N4HpM0ja5kyANGB7yg5j/s320/Relative%20Strength%20Index%20(RSI)%201.jpg",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi24zip1N1k2CFleOLgRjbMHYoaoQ8Wbio4zaIdfIKQTAw5UIdpzR-Dz66N1JRsmRPSFq4ghQb2zCv1oMEgRhdMZ4w9DySU3jLjtnAxILy0_dWrl-4dd7Y55SvC6yNrQoDkNZPaq9XWhZRtG0f7G5vDF-EE3O5JP2REEI-PU5eiSAmHSzOQV1P2urnd1gDr/s320/Relative%20Strength%20Index%20(RSI)%202.png",
         "descriptionE": "The Relative Strength Index (RSI) is a momentum oscillator that measures the speed and change of price movements. It ranges from 0 to 100, with readings above 70 indicating overbought conditions and readings below 30 indicating oversold conditions. Traders use the RSI to identify potential reversal points: if the RSI is overbought, it might be a good time to sell, while an oversold condition may suggest a buying opportunity.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
         "headE": "Chapter 7: Relative Strength Index (RSI)",
@@ -63,8 +63,8 @@
         "imgcount": "2"
     },
     {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU_GGxG0hWx_FrluGllYcIHjPNI1FqHQfPCf95eBBnkdgdB8VOavwBiABPRVg0C0lHZFZCjZLFStxRKl6nH0YC38UGSLTx-_yJ9v6SYURHfkQ0LVBRTcP8ohoVxD8dK0W9JwwyQ-cb3MQv1fybA8xrcI7f7O4vQ2aroQ-E-dNfIrj72VQtKl6FOFH-QocO/s320/Fibonacci%20Retracement%20Levels%201.jpg",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwIj73GO2ccOj-20Izj4Qjq3Km6W9FfCCuMqO8lmvSvhEaqGFZpThms-I27WYTB2_ai_35nlsjn1o7ceAY-ClvHTP5BrhTxpKgHsbcC-KF_Gxl5jSwsA5HHl4rbF2yvKy8IgzivsPLomeNADgPDmKXC5oeFnDzH0m9LXQJxFPL3fkGgWDMqA4ySuoqX3zG/s320/Fibonacci%20Retracement%20Levels%202.jpg",
         "descriptionE": "Fibonacci retracement levels are horizontal lines that indicate potential support and resistance levels based on the Fibonacci sequence. Traders use these levels after a price movement to identify areas where the price may reverse or consolidate. Common retracement levels include 23.6%, 38.2%, 50%, 61.8%, and 100%. This strategy helps traders plan their entry and exit points based on historical price action.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
         "headE": "Chapter 8: Fibonacci Retracement Levels",
@@ -72,8 +72,8 @@
         "imgcount": "2"
     },
     {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07zB4TwtDyVUIiSbcKf-f-enRrC9YI7E1l9JdhJFq18QwBomvrS_qiSLvSmw8q3CN0IEQIqOkJbKApopyoRlE-7U55bvirJI3A0JVYb9DPQA1jjh1hxnMh2Jg_EpvhucmgAAhGPWSAkeU7B8Lki1O53UIih26nKbbo9iJCHueKFUhDqZiwlxY6Tu3uIm9/s320/Ichimoku%20Cloud%201.png",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7cD-i-bUw2u4AD_FciYQtfankLYPCwqW90ri8gERPZefa-SPLCCEYxGErLQRNXEoclqVa_R1dndhFTfSgh-UmDV2a8u6Oe7oEM_j2iX_slFyXiIhve2RsGo10Fg888PnRCR9pKpr3EmwtraAol4dPRVnGDoOvWz4toqZRspiffFK3XxlMhI6Skq0s27Wx/s320/Ichimoku%20Cloud%202.png",
         "descriptionE": "The Ichimoku Cloud is a comprehensive indicator that provides insight into support, resistance, trend direction, and momentum in one view. The cloud consists of five lines that help traders identify the overall market trend and potential buy or sell signals. When the price is above the cloud, it indicates a bullish trend, while a price below the cloud suggests a bearish trend. This strategy allows traders to make informed decisions based on the cloud’s visual representation.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
         "headE": "Chapter 9: Ichimoku Cloud",
@@ -81,8 +81,8 @@
         "imgcount": "2"
     },
      {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVZd0a-w3SMpwO31tBPvTIoREkkut3WK91O_GjnXOnDQvmhpTjl1i4vzMix9sPXT3uIGq6qoCis8wryk6bc1WO7lFXdjuB98CACsW93CA3HhDiTiIxPoD1pbtYh5azpYpmdGH3pCLXm06_VRRB80hfXSIs8-nyMdIWpDHvGm1FIVGgU_oi-5xznTqoYkf0/s1600/Volume%20Profile%201.png",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG4m0MgcTgdkJLolhJJPyazooqAG-7k1E-Y0oBlVSbxIJgbr6fCfmR0i6uGTSqmj5cy5b_WYx2btxHHyB9aqyas9CVc9klpvBgnHo2OwdFm__SUsgtkkedKrMevUKTPWfbwNRxrhn8Pp5rrNOrBrBgz5ynNP0jccI_Gg5bIzoQRwjjO_Foqs4l4knbE5dZ/s320/Volume%20Profile%202.png",
         "descriptionE": "The Volume Profile strategy analyzes trading volume at various price levels, highlighting significant support and resistance zones. This helps traders understand where the most trading activity has occurred, indicating price levels where buyers and sellers are more likely to enter or exit positions. By identifying these zones, traders can make better-informed decisions about potential entry and exit points in the market.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
         "headE": "Chapter 10: Volume Profile",
@@ -90,8 +90,8 @@
         "imgcount": "2"
     },
      {
-        "img1": "https://www.amcharts.com/wp-content/uploads/2019/10/demo_14592_none-11.png",
-        "img2": "https://www.niftytradingacademy.com/uploads/2021/Phase-of-Market-Cycle-in-Chart-6.webp",
+        "img1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCTnu_1fQqPX1DNFLqjEmzLJb1GKx_m_Xm7QeoBLJqG7bTFMO1sqh1zDRJ1KBMOKmgcCkQm2bpME5IyYHNXWDgOw-uZpKE8O3QZVsqN5f5MfwfCpBBiFpl7KH_kBEx2kc1UnLJNVpsckQa24qXINkvoTGWfi1s0YwEUIeF9vMbTWUj5485yCACBpsERFG/s1600/Stochastic%20Oscillator%201.jpeg",
+        "img2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieJf-XXkJB8CwIj3E2fU6YHFygXU8uC2xd-LIBXXO9NvMLJnhbrLdhkaW9EwmrOvm39JWFj5TKMz1BeBHOBZHSdQ5vofv8pJh6ks7oR_B-FgbZ_uGxWXKdJRdU4VYScLg67KL4-Xx2p_0CobIcDu5WYWRKsjIIelOxym8kPuJDT-35DOVUtqvwz-DK2Dv8/s320/Stochastic%20Oscillator%202.png",
         "descriptionE": "The Stochastic Oscillator is a momentum indicator that compares a particular closing price of an asset to its price range over a specific period. It generates two lines: %K (the main line) and %D (the signal line). A buy signal occurs when the %K line crosses above the %D line, while a sell signal is indicated when the %K crosses below the %D line. Traders use this strategy to identify overbought or oversold conditions, helping them time their trades effectively.",
         "descriptionH": "तकनीकी विश्लेषण में भविष्य के बाजार की गतिविधियों का पूर्वानुमान लगाने के लिए चार्ट और ऐतिहासिक डेटा का उपयोग करना शामिल है। यह डे ट्रेडर्स के लिए एक मूल्यवान उपकरण है।",
         "headE": "Chapter 11: Stochastic Oscillator",
